@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "bezkoder.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtSecret'"
+  },
+  {
+    "name": "twilio.AccountSID",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.AccountSID'"
+  },
+  {
+    "name": "bezkoder.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtExpirationMs'"
+  },
+  {
+    "name": "twilio.phoneNumber",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.phoneNumber'"
+  },
+  {
+    "name": "twilio.AuthToken",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.AuthToken'"
+  },
+  {
+    "name": "spring.websocket.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.websocket.endpoint'"
+  }
+]}
